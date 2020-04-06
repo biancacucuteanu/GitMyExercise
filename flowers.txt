@@ -1,3 +1,5 @@
-Dasys
-Roses
-Lilys
+Dasys         10
+Roses         20
+Lilys         15
+Sunflowers    50    
+Peony         46
